@@ -14,24 +14,24 @@
 <p align="center" style="display: flex; gap: 25px; justify-content: center;">
 
   <a href="https://www.facebook.com/mahadin333" style="margin-right: 8px;">
-    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40"  />
+    <img src="./fb.png" alt="facebook logo" height="40" width="40"  />
   </a>
 
   <a href="https://instagram.com/_mahadin_" style="margin-right: 8px;">
-    <img src="./images/socials/instagram.png" alt="instagram logo" height="40" width="40" />
+    <img src="./insta.png" alt="instagram logo" height="40" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/mahadinrahman" style="margin-right: 8px;">
-    <img src="./images/socials/linkedin.png" alt="linkedin logo" height="40" width="40" />
+    <img src="./linkedin.png" alt="linkedin logo" height="40" width="40" />
   </a>
 
   <a href="mailto:mahadinrahman333@gamil.com" style="margin-right: 8px;">
-    <img src="./images/socials/gmail.png" alt="gmail logo" height="40" width="40" />
+    <img src="./gmail.png" alt="gmail logo" height="40" width="40" />
   </a>
 
  
   <a href="https://wa.me/+8801333796444" target="_blank">
-    <img src="./images/socials/whatsapp.png" alt="whatsapp logo" height="40" width="40" />
+    <img src="./whatsapp.png" alt="whatsapp logo" height="40" width="40" />
   </a>
 
 </p>
