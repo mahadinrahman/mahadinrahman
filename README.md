@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <strong>Front-End Web Developer 👋 | Expert in JavaScript, React.js, Next.js | 🚀 Passionate about building modern, user-friendly web applications  🌍 | ⚡ Love creating clean UI and smooth user experiences </strong>
+  <strong>Front-End Web Developer 👋 | Expert in JavaScript, React.js, Next.js ,Express.js ,Mongodb | 🚀 Passionate about building modern, user-friendly web applications  🌍 | ⚡ Love creating clean UI and smooth user experiences </strong>
 </div>
 <br/>
 
@@ -43,8 +43,8 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Next.js, Debugging and problem-solving technique</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router,Next.js,Express.js,Mongodb</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Node.js Debugging and problem-solving technique</strong>
 - 📫 &nbsp; Reach me out: <strong>mahadinrahman333@gmail.com </strong>
 
 ### My Absolute Favorites:
