@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="./banner.png" alt="Banner" />
+  <img src="./banner1.png" alt="Banner" />
 </p>
