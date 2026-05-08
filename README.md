@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="./images/banner333.png">
+        <img src="./banner333.png">
     <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&center=true&vCenter=true&width=602&height=44&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Mahadin+Rahman...;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
