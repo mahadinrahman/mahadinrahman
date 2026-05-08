@@ -10,6 +10,28 @@
   <strong>Front-End Web Developer 👋 | Expert in JavaScript, React.js, Next.js ,Express.js ,Mongodb | 🚀 Passionate about building modern, user-friendly web applications  🌍 | ⚡ Love creating clean UI and smooth user experiences </strong>
 </div>
 <br/>
+<hr/>
+<h2>About Me 👋 </h2> 
+
+Hi! I'm **Mahadin Rahman** — a Web Developer and B.Sc. student in Computer Science & Engineering at **Islamic University,Bangladesh**.
+
+<p>I am very passionate about building modern and responsive web applications.
+
+I work with HTML, CSS, JavaScript, React, and Next.js, focusing on clean code and user-friendly designs. I’m still early in my journey, but I’m actively building projects to improve my skills and grow as a developer.
+
+I’m eager to learn, collaborate, and contribute to real-world projects.</p>
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router,Next.js,Express.js,Mongodb</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Node.js Debugging and problem-solving technique</strong>
+- 📫 &nbsp; Reach me out: <strong>mahadinrahman333@gmail.com </strong>
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
+- 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
@@ -58,18 +80,7 @@
 <br />
 
 
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router,Next.js,Express.js,Mongodb</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Node.js Debugging and problem-solving technique</strong>
-- 📫 &nbsp; Reach me out: <strong>mahadinrahman333@gmail.com </strong>
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
-
-<hr/>
+<h2 align="center">🔥 Social Links 🔥</h2>
 
 <p align="center" style="display: flex; gap: 25px; justify-content: center;">
 
