@@ -66,7 +66,7 @@
 
 <img src="./js.png" alt="js" height="40" />
 
-<img src="./images/tools/react.png" alt="react" height="40" />
+<img src="./react.png" alt="react" height="40" />
 
 <img src="./React-Router.png" alt="react" height="40" />
 
