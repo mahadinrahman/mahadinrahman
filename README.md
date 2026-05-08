@@ -58,27 +58,27 @@
 
 <p align="center">
 
-<img src="./images/tools/html.png" alt="html5" height="40"  />
+<img src="./html.png" alt="html5" height="40"  />
 
-<img src="./images/tools/text.png" alt="css3" height="40" />
+<img src="./text.png" alt="css3" height="40" />
 
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 
-<img src="./images/tools/js.png" alt="js" height="40" />
+<img src="./js.png" alt="js" height="40" />
 
 <img src="./images/tools/react.png" alt="react" height="40" />
 
-<img src="./images/tools/React-Router.png" alt="react" height="40" />
+<img src="./React-Router.png" alt="react" height="40" />
 
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 
-<img src="./images/tools/figma.png" alt="figma" height="40" />
+<img src="./figma.png" alt="figma" height="40" />
 
  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 
-<img src="./images/tools/git.png" alt="github" height="40" />
+<img src="./git.png" alt="github" height="40" />
 
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
