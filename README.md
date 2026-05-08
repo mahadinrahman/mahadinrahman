@@ -98,7 +98,7 @@ const mahadinrahman = {
   pronouns: "he/him",
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["React", "Next.js", "Tailwind CSS","mongodb", "Git", "GitHub", "Vercel", "Netlify"],
-  learning: ["Express.js"],
+  learning: ["Express.js ,Node.js"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript,  React and nextjs fundamentals",
