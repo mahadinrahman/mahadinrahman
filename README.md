@@ -11,49 +11,6 @@
 </div>
 <br/>
 
-<p align="center" style="display: flex; gap: 25px; justify-content: center;">
-
-  <a href="https://www.facebook.com/mahadin333" style="margin-right: 8px;">
-    <img src="./fb.png" alt="facebook logo" height="40" width="40"  />
-  </a>
-
-  <a href="https://instagram.com/_mahadin_" style="margin-right: 8px;">
-    <img src="./insta.png" alt="instagram logo" height="40" width="40" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mahadinrahman" style="margin-right: 8px;">
-    <img src="./linkedin.png" alt="linkedin logo" height="40" width="40" />
-  </a>
-
-  <a href="mailto:mahadinrahman333@gamil.com" style="margin-right: 8px;">
-    <img src="./gmail.png" alt="gmail logo" height="40" width="40" />
-  </a>
-
- 
-  <a href="https://wa.me/+8801333796444" target="_blank">
-    <img src="./whatsapp.png" alt="whatsapp logo" height="40" width="40" />
-  </a>
-
-</p>
-
-<hr/>
-<img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
-
-<br />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router,Next.js,Express.js,Mongodb</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Node.js Debugging and problem-solving technique</strong>
-- 📫 &nbsp; Reach me out: <strong>mahadinrahman333@gmail.com </strong>
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
-
-<hr/>
-
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
@@ -92,6 +49,53 @@
 
 
 </p>
+
+
+
+<hr/>
+<img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
+
+<br />
+
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router,Next.js,Express.js,Mongodb</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Node.js Debugging and problem-solving technique</strong>
+- 📫 &nbsp; Reach me out: <strong>mahadinrahman333@gmail.com </strong>
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
+
+<hr/>
+
+<p align="center" style="display: flex; gap: 25px; justify-content: center;">
+
+  <a href="https://www.facebook.com/mahadin333" style="margin-right: 8px;">
+    <img src="./fb.png" alt="facebook logo" height="40" width="40"  />
+  </a>
+
+  <a href="https://instagram.com/_mahadin_" style="margin-right: 8px;">
+    <img src="./insta.png" alt="instagram logo" height="40" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mahadinrahman" style="margin-right: 8px;">
+    <img src="./linkedin.png" alt="linkedin logo" height="40" width="40" />
+  </a>
+
+  <a href="mailto:mahadinrahman333@gamil.com" style="margin-right: 8px;">
+    <img src="./gmail.png" alt="gmail logo" height="40" width="40" />
+  </a>
+
+ 
+  <a href="https://wa.me/+8801333796444" target="_blank">
+    <img src="./whatsapp.png" alt="whatsapp logo" height="40" width="40" />
+  </a>
+
+</p>
+
 
 ```javascript
 const mahadinrahman = {
